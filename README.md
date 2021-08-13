@@ -1,0 +1,2 @@
+# RepositoryTemplate
+Scaffolding for documentation

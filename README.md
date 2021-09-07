@@ -3,14 +3,42 @@
 </p>
 
 
-# PACKAGE NAME
+# PACKAGE NAME Origin | IAM Client Library | IAM Cache Server
 
 [Site if Applicable (Switchboard, Zero)](https://lodash.com/) |
 
 ## Description
 Overview of package. 
+{Package} is a module-based library built with xxx. 
+
+//Purpose of package, sdk, etc. 
+
+{Package} is a component of the Energy Web Decentralized Operating System
+
+## Installation
+This is a Node.js module available through the npm registry.
+
+### Requirements
+
+Before installing, download and install Node.js. Node.js xxx or higher is required.
+
+Installation is done using the following commands:
+
+$ npm install XXX
+
+For more details, visit our [installation guide](//LINK TO READ THE DOCS INSTALL PAGE)
+
+## Documentation
+- [ReadTheDocs](https://origins.readthedocs.io/en/latest/)
+
+## Who is Using {Package}?
+//For origin, 24/7, Zero might be good to have a few examples of implementations? 
+
+## Contributing Guidelines 
+See contributing.md
 
 ## EW-DOS
+//This should be the same in every repo. 
 {Package} is a component of the Energy Web Decentralized Operating System - a blockchain-based, multi-layer digital infrastructure. 
 
 The purpose of EW-DOS is to develop and deploy an open and decentralized digital operating system for the energy sector in support of a low-carbon, customer-centric energy future. 
@@ -28,14 +56,7 @@ For a deep-dive into the motivation and methodology behind our technical solutio
 
 [EW-DOS Documentation](https://energy-web-foundation.gitbook.io/energy-web/-Me5n8Kxt3p0Xnzcxm90/)
 
-## Requirements
-
-## Installation
-
-## Documentation
-- [ReadTheDocs](https://origins.readthedocs.io/en/latest/)
-
-## Questions 
+## Questions and Support
 For questions and support please use Energy Web's [Discord channel for Support](https://discord.com/channels/706103009205288990/843970822254362664)
 
 ## Connect with Energy Web

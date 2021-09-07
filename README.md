@@ -13,7 +13,7 @@ Overview of package.
 
 //Purpose of package, sdk, etc. 
 
-{Package} is a component of the Energy Web Decentralized Operating System
+{Package} is a component of the [Energy Web Decentralized Operating System](#ew-dos)
 
 ## Installation
 This is a Node.js module available through the npm registry.
@@ -37,7 +37,17 @@ For more details, visit our [installation guide](//LINK TO READ THE DOCS INSTALL
 ## Contributing Guidelines 
 See contributing.md
 
-## EW-DOS
+
+
+## Questions and Support
+For questions and support please use Energy Web's [Discord channel](https://discord.com/channels/706103009205288990/843970822254362664)
+
+## Connect with Energy Web
+- [Twitter](https://twitter.com/energywebx)
+- [Discord](https://discord.com/channels/706103009205288990/843970822254362664)
+- [Telegram](https://t.me/energyweb)
+
+# EW-DOS
 //This should be the same in every repo. 
 {Package} is a component of the Energy Web Decentralized Operating System - a blockchain-based, multi-layer digital infrastructure. 
 
@@ -55,12 +65,4 @@ For a deep-dive into the motivation and methodology behind our technical solutio
 - [Energy Web  White Paper on Technology Detail](https://www.energyweb.org/wp-content/uploads/2020/06/EnergyWeb-EWDOS-PART2-TechnologyDetail-202006-vFinal.pdf)
 
 [EW-DOS Documentation](https://energy-web-foundation.gitbook.io/energy-web/-Me5n8Kxt3p0Xnzcxm90/)
-
-## Questions and Support
-For questions and support please use Energy Web's [Discord channel](https://discord.com/channels/706103009205288990/843970822254362664)
-
-## Connect with Energy Web
-- [Twitter](https://twitter.com/energywebx)
-- [Discord](https://discord.com/channels/706103009205288990/843970822254362664)
-- [Telegram](https://t.me/energyweb)
 

@@ -62,5 +62,5 @@ For questions and support please use Energy Web's [Discord channel for Support](
 ## Connect with Energy Web
 - [Twitter](https://twitter.com/energywebx)
 - [Discord](https://discord.com/channels/706103009205288990/843970822254362664)
-- [Telegram]
+- [Telegram](https://t.me/energyweb)
 

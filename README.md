@@ -3,9 +3,7 @@
 </p>
 
 
-# PACKAGE NAME Origin | IAM Client Library | IAM Cache Server
-
-[Site if Applicable (Switchboard, Zero)](https://lodash.com/) |
+# PACKAGE NAME
 
 ## Description
 Overview of package. 
@@ -14,6 +12,8 @@ Overview of package.
 //Purpose of package, sdk, etc. 
 
 {Package} is a component of the [Energy Web Decentralized Operating System](#ew-dos)
+
+See {PACKAGE} deployed [here](link to Switchboard, Zero if applicable)
 
 ## Installation
 This is a Node.js module available through the npm registry.
@@ -24,7 +24,9 @@ Before installing, download and install Node.js. Node.js xxx or higher is requir
 
 Installation is done using the following commands:
 
-$ npm install XXX
+``` sh
+$ npm install
+```
 
 For more details, visit our [installation guide](//LINK TO READ THE DOCS INSTALL PAGE)
 
@@ -44,7 +46,7 @@ For questions and support please use Energy Web's [Discord channel](https://disc
 
 # EW-DOS
 //This should be the same in every repo. 
-{Package} is a component of the Energy Web Decentralized Operating System - a blockchain-based, multi-layer digital infrastructure. 
+The Energy Web Decentralized Operating System is a blockchain-based, multi-layer digital infrastructure. 
 
 The purpose of EW-DOS is to develop and deploy an open and decentralized digital operating system for the energy sector in support of a low-carbon, customer-centric energy future. 
 
@@ -59,7 +61,6 @@ For a deep-dive into the motivation and methodology behind our technical solutio
 - [Energy Web White Paper on Vision and Purpose](https://www.energyweb.org/reports/EWDOS-Vision-Purpose/)
 - [Energy Web  White Paper on Technology Detail](https://www.energyweb.org/wp-content/uploads/2020/06/EnergyWeb-EWDOS-PART2-TechnologyDetail-202006-vFinal.pdf)
 
-[EW-DOS Documentation](https://energy-web-foundation.gitbook.io/energy-web/-Me5n8Kxt3p0Xnzcxm90/)
 
 ## Connect with Energy Web
 - [Twitter](https://twitter.com/energywebx)

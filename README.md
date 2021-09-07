@@ -35,17 +35,12 @@ For more details, visit our [installation guide](//LINK TO READ THE DOCS INSTALL
 //For origin, 24/7, Zero might be good to have a few examples of implementations? 
 
 ## Contributing Guidelines 
-See contributing.md
-
+See [contributing.md](./contributing.md)
 
 
 ## Questions and Support
 For questions and support please use Energy Web's [Discord channel](https://discord.com/channels/706103009205288990/843970822254362664)
 
-## Connect with Energy Web
-- [Twitter](https://twitter.com/energywebx)
-- [Discord](https://discord.com/channels/706103009205288990/843970822254362664)
-- [Telegram](https://t.me/energyweb)
 
 # EW-DOS
 //This should be the same in every repo. 
@@ -65,4 +60,9 @@ For a deep-dive into the motivation and methodology behind our technical solutio
 - [Energy Web  White Paper on Technology Detail](https://www.energyweb.org/wp-content/uploads/2020/06/EnergyWeb-EWDOS-PART2-TechnologyDetail-202006-vFinal.pdf)
 
 [EW-DOS Documentation](https://energy-web-foundation.gitbook.io/energy-web/-Me5n8Kxt3p0Xnzcxm90/)
+
+## Connect with Energy Web
+- [Twitter](https://twitter.com/energywebx)
+- [Discord](https://discord.com/channels/706103009205288990/843970822254362664)
+- [Telegram](https://t.me/energyweb)
 

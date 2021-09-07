@@ -57,7 +57,7 @@ For a deep-dive into the motivation and methodology behind our technical solutio
 [EW-DOS Documentation](https://energy-web-foundation.gitbook.io/energy-web/-Me5n8Kxt3p0Xnzcxm90/)
 
 ## Questions and Support
-For questions and support please use Energy Web's [Discord channel for Support](https://discord.com/channels/706103009205288990/843970822254362664)
+For questions and support please use Energy Web's [Discord channel](https://discord.com/channels/706103009205288990/843970822254362664)
 
 ## Connect with Energy Web
 - [Twitter](https://twitter.com/energywebx)

@@ -37,14 +37,26 @@ $ npm run build
 ``` sh
 $ npm run start
 ```
+## Testing (delete if not needed)
+Testing Strategy
 
-For more details, visit our [installation guide](//LINK TO READ THE DOCS INSTALL PAGE)
+### Integration Tests (delete if not needed)
+``` sh
+$ npm run test
+```
+
+### Unit Tests (delete if not needed)
+``` sh
+$ npm run test
+```
+
+For more details, visit the [installation guide](//LINK TO READ THE DOCS INSTALL PAGE)
 
 ## Documentation
 - [ReadTheDocs](https://origins.readthedocs.io/en/latest/)
 
 ## Who is Using {Package}?
-//For origin, 24/7, Zero might be good to have a few examples of implementations? 
+//For origin, 24/7, Zero might be good to have a few examples of implementations to give context of how its used
 
 ## Contributing Guidelines 
 See [contributing.md](./contributing.md)
@@ -53,7 +65,7 @@ See [contributing.md](./contributing.md)
 ## Questions and Support
 For questions and support please use Energy Web's [Discord channel](https://discord.com/channels/706103009205288990/843970822254362664) 
 
-or reach out to our team
+Or reach out to our contributing team members
 
 - TeamMember: email address@energyweb.org
 

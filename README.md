@@ -28,6 +28,16 @@ Installation is done using the following commands:
 $ npm install
 ```
 
+## Build
+``` sh
+$ npm run build
+```
+
+## Run
+``` sh
+$ npm run start
+```
+
 For more details, visit our [installation guide](//LINK TO READ THE DOCS INSTALL PAGE)
 
 ## Documentation
@@ -41,7 +51,11 @@ See [contributing.md](./contributing.md)
 
 
 ## Questions and Support
-For questions and support please use Energy Web's [Discord channel](https://discord.com/channels/706103009205288990/843970822254362664)
+For questions and support please use Energy Web's [Discord channel](https://discord.com/channels/706103009205288990/843970822254362664) 
+
+or reach out to our team
+
+- TeamMember: email address@energyweb.org
 
 
 # EW-DOS

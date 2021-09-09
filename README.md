@@ -78,7 +78,7 @@ The purpose of EW-DOS is to develop and deploy an open and decentralized digital
 
 We develop blockchain technology, full-stack applications and middleware packages that facilitate participation of Distributed Energy Resources on the grid and create open market places for transparent and efficient renewable energy trading.
 
-- To learn about more about the EW-DOS tech stack, go [here](https://app.gitbook.com/@energy-web-foundation/s/energy-web/).  
+- To learn about more about the EW-DOS tech stack, see our [documentation](https://app.gitbook.com/@energy-web-foundation/s/energy-web/).  
 
 - For an overview of the energy-sector challenges our use cases address, go [here](https://app.gitbook.com/@energy-web-foundation/s/energy-web/our-mission). 
 

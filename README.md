@@ -37,6 +37,27 @@ $ npm run build
 ``` sh
 $ npm run start
 ```
+
+## Docker
+Instructions how to run app with Docker.
+
+```
+docker run --rm -p 8000:8000 ghcr.io/energywebfoundation/{PACKAGE}:latest
+```
+
+
+Build docker image:
+```
+docker build --tag {PACKAGE} -f ./Dockerfile .
+```
+
+## Kubernetes
+Instructions how to deploy app on Kubernetes.
+
+```
+helm install ...
+```
+
 ## Testing (delete if not needed)
 Testing Strategy
 

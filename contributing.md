@@ -17,7 +17,7 @@ We love your input! We want to make contributing to this project as easy and tra
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. 
 
-As for everything else in the project, the contributions to [PROJECT/REPO] are governed by our Code of Conduct[REFERENCE].
+As for everything else in the project, the contributions to [PROJECT/REPO] are governed by our [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 ## Using the issue tracker
 
